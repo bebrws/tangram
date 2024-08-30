@@ -10,8 +10,8 @@
 
 Start by installing the following dependencies:
 
-* [Bun](https://bun.sh/) Bun is a NodeJS drop-in alternative/package manager/build system/etc that comes with everything but the kitchen sink. 
-* [Dash](http://gondor.apana.org.au/~herbert/dash/) Dash is a POSIX compliant shell that is used to run the build scripts.
+* [Bun](https://bun.sh/) Bun is a NodeJS drop-in alternative/package manager/build system/etc that comes with everything but the kitchen sink. Easy to install with the instruction on the website.
+* [Dash](http://gondor.apana.org.au/~herbert/dash/) Dash is a POSIX compliant shell that is used to run the build scripts. It can be installed with Homebrew.
 
 Install NodeJS packages from the root of the repository:
 ```bash
